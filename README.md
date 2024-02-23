@@ -21,7 +21,7 @@ p: x**y
 
 
 # Diseño 
-¡[Diagrama de flujo](diagrama.png"diagrama de flujo")
+![Diagrama de flujo](diagrama.png "diagrama de flujo")
 
 # Construccion 
 
